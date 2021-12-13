@@ -2,9 +2,9 @@
   <img src="./Media/VrLogoCropped.png" />
 </p>
 
-<p align="center">
-## Stylized Rendering in VR
-</p>
+
+<h2 align="center"> Stylized Rendering in VR </h2>
+
 
 
 **Team:** William Meldrum
