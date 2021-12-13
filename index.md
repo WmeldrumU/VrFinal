@@ -1,5 +1,8 @@
 ## Stylized Rendering in VR
 
+![VRFINAL](/media/VrLogoCropped.png?raw=true "VRFINAL")
+VRFINAL
+
 **Team:** William Meldrum
 
 **Release**: 12/12/2021
