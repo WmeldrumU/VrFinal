@@ -1,7 +1,11 @@
-## Stylized Rendering in VR
+<p align="center">
+  <img src="./Media/VrLogoCropped.png" />
+</p>
 
-![VRFINAL](/media/VrLogoCropped.png?raw=true "VRFINAL")
-VRFINAL
+<p align="center">
+## Stylized Rendering in VR
+</p>
+
 
 **Team:** William Meldrum
 
