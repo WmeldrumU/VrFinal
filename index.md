@@ -6,6 +6,8 @@
 <h2 align="center"> Stylized Rendering in VR </h2>
 
 
+### The Facts
+
 
 **Team:** William Meldrum
 
@@ -15,6 +17,7 @@
 
 **Repository**: https://github.com/WmeldrumU/VrFinal
 
+### Pitch
 
 This project is a quick study of realtime stylized rendering in VR. There are many examples of stylized rendering, both VR and non-VR, (i.e. Return of the Obra Dinn, Guilty Gear Strive, Okami) but typically only one style of rendering is used and it can't be interacted with in any way. This project allows for the user to "peek" through multiple windows to view how the world can be shaded differently. 
 
@@ -31,11 +34,20 @@ I love graphics. I have been able to become certified in visual computing throug
 - Cross-hatch shader: Meant to simulate handdrawn illustrations with pencil
 
 
-
 You can use the [editor on GitHub](https://github.com/WmeldrumU/VrFinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### About
+
+**The Team**: Just me here! I love to tinker with graphics technologies and I found this class as a great opporunity to do so!
+
+**Contact**: William Meldrum - wmeldrum1@gmail.com
+
+**Faculty Sponsor**: Rogelio E. Cardona-Rivera, Ph.D - rogelio@cs.utah.edu
+
+
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
