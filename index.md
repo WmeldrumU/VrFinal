@@ -23,7 +23,14 @@ This project is a quick study of realtime stylized rendering in VR. There are ma
 
 
 {% include image-gallery.html folder="./Media" %}
-
+<p align="center">
+  <img src="./Media/FinalSnap1.png" />
+  <img src="./Media/FinalSnap2.png" />
+  <img src="./Media/FinalSnap3.png" />
+  <img src="./Media/FinalSnap4.png" />
+  <img src="./Media/FinalSnap5.png" />
+  <img src="./Media/FinalSnap6.png" />
+</p>
 
 ### History 
 
