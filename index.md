@@ -13,6 +13,17 @@ This project is a quick study of realtime stylized rendering in VR. There are ma
 
 
 
+### History 
+
+I love graphics. I have been able to become certified in visual computing through the University of Utah and want to get as experienced as possible with different rendering technologies. VR seemed like a great medium to explore different rendering styles by looking through different windows in the environment. I didn't know if I'd be able to do it, but I wanted to do it regardless to learn more. 
+
+### Features
+
+- 1-bit shader: This shader was inspired by the original Game Boy and recent games like the aformentioned Return of the Obra Dinn
+- Cel-shader: One of the most common types of stylized shading, seen in projects like Okami and Borderlands
+- Cross-hatch shader: Meant to simulate handdrawn illustrations with pencil
+
+
 
 You can use the [editor on GitHub](https://github.com/WmeldrumU/VrFinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
