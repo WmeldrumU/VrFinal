@@ -1,8 +1,11 @@
 ## Stylized Rendering in VR
 
 **Team:** William Meldrum
+
 **Release**: 12/12/2021
+
 **Platforms**: All SteamVR headsets
+
 **Repository**: https://github.com/WmeldrumU/VrFinal
 
 
