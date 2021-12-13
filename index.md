@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Stylized Rendering in VR
+
+**Team:** William Meldrum
+**Release**: 12/12/2021
+**Platforms**: All SteamVR headsets
+**Repository**: https://github.com/WmeldrumU/VrFinal
+
+
+This project is a quick study of realtime stylized rendering in VR. There are many examples of stylized rendering, both VR and non-VR, (i.e. Return of the Obra Dinn, Guilty Gear Strive, Okami) but typically only one style of rendering is used and it can't be interacted with in any way. This project allows for the user to "peek" through multiple windows to view how the world can be shaded differently. 
+
+
+
 
 You can use the [editor on GitHub](https://github.com/WmeldrumU/VrFinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
