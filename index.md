@@ -17,12 +17,15 @@
 
 **Repository**: https://github.com/WmeldrumU/VrFinal
 
+
+
 ### Pitch
 
 This project is a quick study of realtime stylized rendering in VR. There are many examples of stylized rendering, both VR and non-VR, (i.e. Return of the Obra Dinn, Guilty Gear Strive, Okami) but typically only one style of rendering is used and it can't be interacted with in any way. This project allows for the user to "peek" through multiple windows to view how the world can be shaded differently. 
 
 
-{% include image-gallery.html folder="./Media" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3tGW95dl4HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center">
   <img src="./Media/FinalSnap1.png" />
   <img src="./Media/FinalSnap2.png" />
